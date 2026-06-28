@@ -409,6 +409,7 @@
     <string name="clientcontrol_fail_scene_disabled">Scénario désactivé.</string>
     <string name="clientcontrol_fail_partial">Certaines actions n\'ont pas pu être appliquées.</string>
     <string name="clientcontrol_fail_execution">Le maître n\'a pas pu l\'appliquer.</string>
+    <string name="clientcontrol_fail_control_disabled">La commande à distance est désactivée sur le maître.</string>
     <string name="clientcontrol_fail_no_pending_bolus">Le bolus préparé a expiré ou a été remplacé. Appuyez à nouveau sur le bouton.</string>
     <string name="clientcontrol_fail_bolus_compute">Le maître n\'a pas pu calculer le bolus (glycémie / profil manquant, ou pompe pas prête).</string>
     <string name="clientcontrol_fail_internal">Un problème est survenu.</string>
@@ -742,6 +743,7 @@
     <string name="wizard_include_cob">Inclure GA</string>
     <string name="wizard_calculation">Calcul</string>
     <string name="no_action_selected">Aucune action sélectionnée, rien ne se passera</string>
+    <string name="carbs_removal_cob_limit" comment="Shown under the carbs field when removing carbs (a negative value). %1$d = grams of carbs currently on board, the maximum removable. Example: Max removal: 30 g (carbs on board)">Suppression max : %1$d g (glucides actifs)</string>
     <string name="wizard_no_insulin_required">Pas d\'insuline requise</string>
     <string name="wizard_no_actual_bg">Pas de glycémie récente pour calculer !</string>
     <string name="wizard_no_active_profile">Aucun profil activé !</string>
